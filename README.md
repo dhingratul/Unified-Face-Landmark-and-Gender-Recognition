@@ -14,7 +14,7 @@ Non linear regression on housing dataset using a Neural Networks based approach 
 9. pickle
 
 # Run
-1. Unzip pre-trained weights into model/ from https://drive.google.com/file/d/0B23AMrU3NLB3TEhrWkd0ZW9INVU/view?usp=sharing
+1. Unzip pre-trained weights into model/ from [here](https://drive.google.com/file/d/0B23AMrU3NLB3TEhrWkd0ZW9INVU/view?usp=sharing)
 2. cd into src/ directory
 2. `python deploy.py` with the default settings
 3. `python deploy.py --model 'DL' ` with Deep-learning based  model for gender classification
