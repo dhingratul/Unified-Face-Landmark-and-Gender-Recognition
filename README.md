@@ -24,7 +24,7 @@ Non linear regression on housing dataset using a Neural Networks based approach 
 1. Face landmarking is done using dlib
 2. Gender Classifier based on Deep Learning, and PCA are both trained on LFW deep funelled dataset
 3. Images in ../data/ with prefix '0_{}.jpg' are from LFW and '1_{}.jpg' from COCO dataset
-4. Deep Learning based method is two times(2x) slower than simpler model just using PCA, but Deep Learning based method for gender classification is more accurate. See ../data/0_2.jpg for the image from same distribution(LFW), and ../data/1_1.jpg for image from a different distribution(COCO)
+4. Deep Learning based method is two times(2x) slower than simpler model just using PCA, but Deep Learning based method for gender classification is more accurate. See performance of both the models on ../data/0_2.jpg for the image from same distribution(LFW), and ../data/1_1.jpg for image from a different distribution(COCO)
 5. The model works well with multiple images in a frame, see ../data/0_6.jpg
 
 # Credits
