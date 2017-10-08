@@ -1,0 +1,9 @@
+keras
+dlib
+imutils
+cv2
+numpy
+sklearn
+scipy
+pandas
+pickle
