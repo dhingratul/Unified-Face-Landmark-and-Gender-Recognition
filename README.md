@@ -20,6 +20,7 @@ Face Detection, landmark detection and gender classification in a unified workfl
 2. `python deploy.py` with the default settings
 3. `python deploy.py --model 'DL' ` with Deep-learning based  model for gender classification
 4. `python deploy.py --model 'DL' --image 'Path to image'` , sample images are present in '../data/'
+5. `python deploy_video.py` for video-camera based version with PCA trained Gender classifier
 
 # Note:
 1. Face landmarking is done using dlib
