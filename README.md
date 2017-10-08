@@ -1,6 +1,7 @@
 # Face Detection-Landmarks-Gender Recognition
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-Non linear regression on housing dataset using a Neural Networks based approach with keras(tensorflow backend)
+
+Face Detection, landmark detection and gender classification in a unified workflow
 
 # Requirements
 1. keras
